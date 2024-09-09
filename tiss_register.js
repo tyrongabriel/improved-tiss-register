@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name       TISS Quick Registration Script
+// @name       TISS Autoregister
 // @namespace  http://www.tyrongabriel.com
 // @version    1.0
 // @description  Improved and modularized script to help you register quickly for groups, exams, and courses.
